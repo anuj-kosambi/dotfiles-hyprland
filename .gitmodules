@@ -1,3 +1,9 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = https://github.com/catppuccin/alacritty.git
+[submodule "tmux/plugins/tpm"]
+	path = tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "tmux/plugins/tmux"]
+	path = tmux/plugins/tmux
+	url = https://git::@github.com/catppuccin/tmux
