@@ -10,3 +10,6 @@
 ![](./previews/2023-11-29-143325_hyprshot.png)
 ![](./previews/2023-11-29-143437_hyprshot.png)
 
+
+## Thanks to @m4xshen
+[m4xshen/dotfiles](https://github.com/m4xshen/dotfiles)
