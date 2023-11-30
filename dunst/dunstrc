@@ -1,10 +1,14 @@
 [global]
+	gaps = true
+	gap_size = 10
 format = "<b>%s</b>\n%b"
 
 icon_path = "~/.local/share/icons/"
 #icon_theme = WhiteSur
 max_icon_size = 64
 enable_recursive_icon_lookup = true
+
+
 
 origin = top-right
 offset = 22x22
