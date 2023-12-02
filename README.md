@@ -13,6 +13,7 @@
 
 ![](./previews/2023-11-29-143325_hyprshot.png)
 ![](./previews/2023-11-29-143437_hyprshot.png)
+![](./previews/2023-12-02-172824_hyprshot.png)
 
 
 ## Thanks to @m4xshen
